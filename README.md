@@ -18,8 +18,8 @@ Algorithms
 | Filling Jars      | Easy      |   20/20 | 01/Jul/2014 | [Click Here](https://github.com/BukhariH/HackerRank/blob/master/FillingJars/solution.rb)|
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Challenge        | Difficulty | Score  | Date of Completion | Solution |
+| :-------------: |:-------------:| :-----:| | :-----:| | :-----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
