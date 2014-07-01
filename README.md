@@ -1,11 +1,11 @@
-##HackerRank
-
+HackerRank
+===
 Just my solutions for the various challenges on HackerRank :)
 All of my solutions are in Ruby :)
 
 
-###Algorithms
-
+Algorithms
+---
 
 | Challenge        | Difficulty | Score  | Date of Completion |Solution|
 | :-: |:-:| :-:| :-:|
